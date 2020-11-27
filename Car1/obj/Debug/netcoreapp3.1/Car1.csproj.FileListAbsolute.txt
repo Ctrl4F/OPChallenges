@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.exe
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.deps.json
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.runtimeconfig.json
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.dll
+C:\Users\opilane\source\repos\OPChallenges\Car1\bin\Debug\netcoreapp3.1\Car1.pdb
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.dll
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.pdb
+C:\Users\opilane\source\repos\OPChallenges\Car1\obj\Debug\netcoreapp3.1\Car1.genruntimeconfig.cache

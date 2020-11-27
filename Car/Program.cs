@@ -50,6 +50,14 @@ namespace Car
             {
                 get { return color; }
             }
+            public int Odometer
+            {
+                get { return odometer; }
+            }
+            public int Fuel
+            {
+                get { return fuel; }
+            }
         }
         
     

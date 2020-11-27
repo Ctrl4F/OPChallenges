@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPChallenges", "OPChallenges\OPChallenges.csproj", "{A2E8C291-44A9-4126-8A9D-B9243F3BA534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPChallenges", "OPChallenges\OPChallenges.csproj", "{A2E8C291-44A9-4126-8A9D-B9243F3BA534}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{22156C84-F54C-41FC-9CBD-5A174006A5D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car1", "Car1\Car1.csproj", "{3CA06AE0-EA7E-4F1E-8204-5BF76F63BC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A2E8C291-44A9-4126-8A9D-B9243F3BA534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2E8C291-44A9-4126-8A9D-B9243F3BA534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2E8C291-44A9-4126-8A9D-B9243F3BA534}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22156C84-F54C-41FC-9CBD-5A174006A5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22156C84-F54C-41FC-9CBD-5A174006A5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22156C84-F54C-41FC-9CBD-5A174006A5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22156C84-F54C-41FC-9CBD-5A174006A5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA06AE0-EA7E-4F1E-8204-5BF76F63BC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA06AE0-EA7E-4F1E-8204-5BF76F63BC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA06AE0-EA7E-4F1E-8204-5BF76F63BC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA06AE0-EA7E-4F1E-8204-5BF76F63BC4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
